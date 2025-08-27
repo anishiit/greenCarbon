@@ -1,0 +1,41 @@
+{
+  "name": "green-carbon",
+  "version": "1.0.0",
+  "description": "Node.js library for tracking carbon emissions from code execution - equivalent to Python's CodeCarbon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "demo": "node examples/demo.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "carbon",
+    "emissions",
+    "sustainability",
+    "energy",
+    "environment",
+    "codecarbon",
+    "green-computing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "os": "^0.1.2",
+    "fs": "^0.0.2",
+    "systeminformation": "^5.21.22",
+    "csv-writer": "^1.6.0",
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/green-carbon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/green-carbon/issues"
+  },
+  "homepage": "https://github.com/yourusername/green-carbon#readme"
+}

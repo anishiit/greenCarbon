@@ -377,6 +377,3 @@ greenCarbon/
 
 *This documentation represents the complete technical overview of the GreenCarbon project, demonstrating the successful implementation of a Node.js carbon emissions tracking library that brings sustainability awareness to the JavaScript ecosystem.*
 
-**Student Signature**: _________________  
-**Date**: _________________  
-**Supervisor Approval**: _________________

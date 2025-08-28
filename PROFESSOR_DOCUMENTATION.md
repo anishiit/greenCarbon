@@ -1,14 +1,4 @@
 # GreenCarbon: Node.js Carbon Emissions Tracking Library
-## Final Year B-Tech Project Documentation
-
-**Student:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
-**Department:** [Your Department]  
-**Supervisor:** [Professor's Name]  
-**Academic Year:** 2024-2025  
-**Semester:** [Current Semester]
-
----
 
 ## 1. Project Overview
 
@@ -384,15 +374,6 @@ greenCarbon/
 - **Operating Systems**: Windows 10+, macOS 10.14+, Linux (kernel 3.0+)
 - **Memory**: Minimum 512MB RAM
 - **Storage**: 50MB available space
-
----
-
-**Project Completion Date**: [Current Date]  
-**Total Development Time**: [X] months  
-**Lines of Code**: [X] lines  
-**Test Coverage**: [X]%  
-
----
 
 *This documentation represents the complete technical overview of the GreenCarbon project, demonstrating the successful implementation of a Node.js carbon emissions tracking library that brings sustainability awareness to the JavaScript ecosystem.*
 
